@@ -2,11 +2,12 @@ While navigating on the [AMMI site](https://aims-ammi.com/), I quickly realized 
 
 Several problems arise:
 * 10 in performance
-* two large images of 4mo each :whale2: :whale2:  
+* two large images of MO each :whale2: :whale2:  
 * the static site builder uses (Squarespace) is as graceful as an elephant.  
 
 So I decided to propose a version of the site completely redone, lightweight with HTML, [Bulma](https://bulma.io/) and vanilla JS.
 ## Roadmap
+- [ ] Reproduce the current site
 - [ ] Alternative new design
 - [ ] Favicon
 - [ ] Manifest
