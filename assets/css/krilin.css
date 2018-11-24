@@ -1,7 +1,7 @@
 /* My custom style */
 /* Font */
 html, body, h1, h2, h3, h4, h5, h6 {
-            font-family: 'Titillium Web', sans-serif;
+            font-family: 'Fjalla One', 'Titillium Web', sans-serif;
         }
 
 /* Horizontal center for images */
@@ -14,17 +14,23 @@ html, body, h1, h2, h3, h4, h5, h6 {
 
 /* Custom sections styles */
 #first {
-    background-image: url("../img/first.jpg");
+    background-image: url("../img/banner1.png");
     background-position: center center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    /* background-attachment: scroll; */
+    /* background-attachment: fixed; */
+    background-attachment: scroll;
     background-size: cover;
 
     height: 100vh;
     display: flex;
     align-items: flex-start;
     overflow: hidden;
+}
+
+#logo{
+    max-width: 160px;
+    width: 100%;
+    border: 0;
 }
 
 #firstseccol {
