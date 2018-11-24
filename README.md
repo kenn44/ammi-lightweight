@@ -10,9 +10,9 @@ So I decided to propose a version of the site completely redone, lightweight wit
 - [ ] Reproduce the current site
 - [ ] Compress louder images
 - [ ] Alternative new design
-- [ ] Favicon
-- [ ] Manifest
-- [ ] Open Graph Protocol
+- [x] Favicon
+- [x] Manifest
+- [x] Open Graph Protocol
 - [ ] Contact form
 - [ ] Press section
 
