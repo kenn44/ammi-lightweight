@@ -10,6 +10,7 @@ So I decided to propose a version of the site completely redone, lightweight wit
 - [ ] Reproduce the current site
 - [x] Compress all images: 13.2 MB to 1.7 MB
 - [ ] Alternative new design
+- [ ] Improve performance: 10 to
 - [x] Favicon
 - [x] Manifest
 - [x] Open Graph Protocol
