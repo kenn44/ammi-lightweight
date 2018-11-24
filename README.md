@@ -8,7 +8,7 @@ Several problems arise:
 So I decided to propose a version of the site completely redone, lightweight with HTML, [Bulma](https://bulma.io/) and vanilla JS.
 ## Roadmap
 - [ ] Reproduce the current site
-- [ ] Compress louder images
+- [x] Compress louder images
 - [ ] Alternative new design
 - [x] Favicon
 - [x] Manifest
