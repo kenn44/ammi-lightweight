@@ -1,6 +1,6 @@
 /* My custom style */
 /* Font */
-html, body, h1, h2, h3, h4, h5, h6 {
+html, body, h1, h2, h3, h4, h5, h6, footer {
             font-family: 'Titillium Web', sans-serif;
         }
 
@@ -25,6 +25,24 @@ html, body, h1, h2, h3, h4, h5, h6 {
     display: flex;
     align-items: flex-start;
     overflow: hidden;
+}
+
+#second {
+    background-image: url("../img/banner2.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-attachment: scroll;
+    background-size: cover;
+
+    height: 100vh;
+    display: flex;
+    align-items: flex-start;
+    overflow: hidden;
+}
+
+#last {
+    background-color: #000;
 }
 
 #logo{
@@ -69,14 +87,6 @@ html, body, h1, h2, h3, h4, h5, h6 {
     background-color: #0E1322;
 }
 
-#last {
-    background-image: url("../img/last.jpg");
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    /* background-attachment: scroll; */
-    background-size: cover;
-}
 
 #report {
     /* background: rgb(41,127,202);
