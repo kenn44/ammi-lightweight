@@ -3,7 +3,7 @@
 html, body, h1, h2, h3, h4, h5, h6, footer {
             font-family: 'Roboto', 'Titillium Web', sans-serif;
         }
-        
+
 hr { 
     display: block;
     width: 50%;
@@ -38,10 +38,8 @@ hr {
     background-position: center center;
     background-repeat: no-repeat;
     /* background-attachment: fixed; */
-    background-attachment: scroll;
+    background-attachment: scroll ;
     background-size: cover;
-    background-color: #999;
-
     /* height: 200vh; */
     display: flex;
     /* align-items: flex-start; */
@@ -59,42 +57,10 @@ hr {
     border: 0;
 }
 
-#firstseccol {
-    align-self: start;
-    padding-top: 20vh;
+#partnership {
+    /* align-self: start; */
+    padding-top: 8vh;
 }
-
-/* Gros decalage sur mobile */
-#firstseccolmob {
-    align-self: start;
-    padding-top: 10vh;
-}
-
-#alerte {
-    background-color: #F25F5C;
-    background-image: url("../img/vector1.svg");
-    background-position: left center;
-    background-repeat: no-repeat;
-}
-
-#conseil {
-    background-color: #297FCA;
-    background-image: url("../img/vector2.svg");
-    background-position: right center;
-    background-repeat: no-repeat;
-}
-
-#pertubation {
-    background-color: #39CC76;
-    background-image: url("../img/vector3.svg");
-    background-position: left center;
-    background-repeat: no-repeat;
-}
-
-#obtenez {
-    background-color: #0E1322;
-}
-
 
 #report {
     /* background: rgb(41,127,202);
@@ -104,7 +70,3 @@ hr {
 /* #footer {
     background-color: #0E1322;
 } */
-
-.text-bleu {
-    color: #297FCA;
-}
