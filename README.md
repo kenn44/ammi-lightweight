@@ -15,6 +15,7 @@ So I decided to propose a version of the site completely redone, lightweight wit
 - [x] Favicon
 - [x] Manifest
 - [x] Open Graph Protocol
+- [ ] Pixel Perfect
 - [ ] Use Web Components for the lecturer list
 - [ ] Contact form
 - [ ] Press section
