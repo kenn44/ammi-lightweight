@@ -4,6 +4,10 @@ html, body, h1, h2, h3, h4, h5, h6, footer {
             font-family: 'Roboto', 'Titillium Web', sans-serif;
         }
 
+body {
+    overflow-x: hidden;
+}
+
 hr { 
     display: block;
     width: 50%;
