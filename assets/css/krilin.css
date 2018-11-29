@@ -1,9 +1,15 @@
 /* My custom style */
 /* Font */
 html, body, h1, h2, h3, h4, h5, h6, footer {
-            font-family: 'Titillium Web', sans-serif;
+            font-family: 'Roboto', 'Titillium Web', sans-serif;
         }
-
+        
+hr { 
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
 /* Horizontal center for images */
 .center {
     display: block;
@@ -34,16 +40,18 @@ html, body, h1, h2, h3, h4, h5, h6, footer {
     /* background-attachment: fixed; */
     background-attachment: scroll;
     background-size: cover;
+    background-color: #999;
 
-    height: 100vh;
+    /* height: 200vh; */
     display: flex;
-    align-items: flex-start;
+    /* align-items: flex-start; */
     overflow: hidden;
+    padding-top: 40vh;
+    padding-bottom: 40vh;
+
+
 }
 
-#last {
-    background-color: #000;
-}
 
 #logo{
     max-width: 160px;
