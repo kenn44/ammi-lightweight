@@ -7,15 +7,17 @@ Several problems arise:
 
 So I decided to propose a version of the site completely redone, lightweight with HTML, [Bulma](https://bulma.io/) and vanilla JS.
 ## Roadmap
-- [ ] Reproduce the current site
+- [x] Reproduce the current site
 - [x] Compress all images: 13.2 MB to 1.7 MB
-- [ ] Alternative new design
-- [ ] Improve performance: 10 to
+- [x] Improve performance: 10 to 81
 - [x] Favicon
 - [x] Manifest
 - [x] Open Graph Protocol
+- [ ] Use web Components for the lecturer list
 - [ ] Contact form
 - [ ] Press section
+- [ ] Alternative new design
+
 
 ![Lighthouse before](README/lighthouseBefore.png)
 ![Lighthouse after](README/lighthouseAfter1.png)
