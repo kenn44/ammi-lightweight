@@ -11,7 +11,7 @@ So I decided to propose a version of the site completely redone, lightweight wit
 ## Roadmap
 - [x] Reproduce the current site
 - [x] Compress all images: 13.2 MB to 1.7 MB
-- [x] Improve performance: 10 to 81
+- [x] Improve performance: 10 to 90
 - [x] Favicon
 - [x] Manifest
 - [x] Open Graph Protocol
@@ -21,8 +21,13 @@ So I decided to propose a version of the site completely redone, lightweight wit
 - [ ] Press section
 - [ ] Alternative new design
 
+##Before
 
 ![Lighthouse before](README/lighthouseBefore.png)
 ![Lighthouse after](README/lighthouseAfter1.png)
 ![Lighthouse after](README/lighthouseAfter2.png)
+
+##After
+![AMMI after](README/ammiAfter.png)
+
 
