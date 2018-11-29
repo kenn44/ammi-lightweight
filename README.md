@@ -7,7 +7,7 @@ Several problems arise:
 
 So I decided to propose a version of the site completely redone, lightweight with HTML, [Bulma](https://bulma.io/) and vanilla JS.
 
-##[Demo](https://suspicious-brown-5e9d1b.netlify.com/)
+[Demo](https://suspicious-brown-5e9d1b.netlify.com/)
 ## Roadmap
 - [x] Reproduce the current site
 - [x] Compress all images: 13.2 MB to 1.7 MB
