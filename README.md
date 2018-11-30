@@ -21,13 +21,13 @@ So I decided to propose a version of the site completely redone, lightweight wit
 - [ ] Press section
 - [ ] Alternative new design
 
-##Before
+## Before
 
 ![Lighthouse before](README/lighthouseBefore.png)
 ![Lighthouse after](README/lighthouseAfter1.png)
 ![Lighthouse after](README/lighthouseAfter2.png)
 
-##After
+## After
 ![AMMI after](README/ammiAfter.png)
 
 
